@@ -1,7 +1,7 @@
 export interface InputData {
   initialValue: number;
   monthlyContribution: number;
-  increaseFrequency: number;
+  increaseFrequencyMonths: number;
   increaseTotalAmount: number;
   increasePercentage: number;
   desiredTime: number;
